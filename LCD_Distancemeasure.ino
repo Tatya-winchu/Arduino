@@ -1,3 +1,5 @@
+/* Distance Measurement Using PR sensor/ Ultrasonic Sensor
+Sensor is interfaced to Arduino Uno R3 and output is displayed on 16*2 LCD*/
 
 #include<LiquidCrystal.h>//include LCD library
 LiquidCrystal myLCD(10,9,5,4,3,2);//naming the LCD object telling arduino how we hooked LCD
