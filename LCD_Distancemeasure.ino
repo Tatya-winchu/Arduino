@@ -1,4 +1,4 @@
-/* Distance Measurement Using PR sensor/ Ultrasonic Sensor
+/* Distance Measurement Ultrasonic Sensor 
 Sensor is interfaced to Arduino Uno R3 and output is displayed on 16*2 LCD*/
 
 #include<LiquidCrystal.h>//include LCD library
